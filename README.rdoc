@@ -1,6 +1,6 @@
 == README
 
-Coder Manual Project Application; (newline?)
+Coder Manual Project Application %\n 
 Subscription-based web application
 
 
