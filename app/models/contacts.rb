@@ -1,3 +1,3 @@
-class Contact = ActiveRecod::Base
+class Contact < ActiveRecod::Base
     
 end
